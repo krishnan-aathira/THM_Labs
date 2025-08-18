@@ -9,11 +9,14 @@ The labs cover areas like penetration testing, SOC analysis, incident response, 
 - Completed Room: 46
 - Earned Badges: 7  
 
-![THM Badge](Certificates/thm-profile.png)
+THM Badge --------> https://github.com/krishnan-aathira/CyberSec_Certifcates
 
 ---
 
 ## 🔍 Completed Rooms
+https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_1.png
+https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_2.png
+https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_3.png
 
 | Room Name             | Category             |                                
 |------------------------|----------------------|

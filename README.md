@@ -1,6 +1,6 @@
-## TryHackMe Cybersecurity Labs Portfolio
+##TryHackMe Cybersecurity Labs Portfolio
 
-This repository documents my completed **TryHackMe rooms** to showcase my hands-on cybersecurity skills.  
+This repository documents my completed TryHackMe rooms to showcase my hands-on cybersecurity skills.  
 The labs cover areas like penetration testing, SOC analysis, incident response, and web security.
 
 ## My TryHackMe Profile
@@ -9,17 +9,14 @@ The labs cover areas like penetration testing, SOC analysis, incident response, 
 - Completed Room: 46
 - Earned Badges: 7  
 
-THM Badge --------> https://github.com/krishnan-aathira/CyberSec_Certifcates
+THM Badge : https://github.com/krishnan-aathira/CyberSec_Certifcates
 
----
 
-## 🔍 Completed Rooms
+## Completed Rooms
 https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_1.png
 https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_2.png
 https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_3.png
 
-| Room Name             | Category             |                                
-|------------------------|----------------------|
 
 | Defensive Security Intro, Introduction to SIEM, IDS Fundamentals| ---------- | Defensive Security  |
 
@@ -37,9 +34,7 @@ https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_3.png
 |Digital Forensics Fundamentals, Incident Response Fundamentals, Logs Fundamentals| ------------- | Forensics / Incident Response |
 
 
----
-
-## 🛠️ Skills Highlighted
+## Skills Highlighted
 - Network Traffic Analysis  
 - Web Application Security
 - Core networking concepts

@@ -46,9 +46,7 @@ https://github.com/krishnan-aathira/THM_Labs/blob/main/completed_rooms_3.png
 - OWASP Top 10 Exploitation & Defense
 - OSI Model & core protocols (TCP/IP, UDP, DNS, HTTP/S, ICMP)
 
----
-
-## 🎯 Career Goal
+## Career Goal
 Actively applying for **Entry-Level SOC Analyst / Cybersecurity Analyst** roles in UAE.  
 This repository demonstrates my **hands-on experience** and commitment to continuous learning.
 
